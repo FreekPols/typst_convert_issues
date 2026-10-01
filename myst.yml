@@ -14,6 +14,8 @@ project:
     - file: inlinefigs.md
     - file: table1.md
     - file: table2.md
+    - file: aside.md
+    - file: text.md
     - file: errorlog.md
 
   exports:

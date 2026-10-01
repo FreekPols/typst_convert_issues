@@ -2,12 +2,13 @@
 
 Trying to recreate: https://github.com/jupyter-book/mystmd/issues/2995
 
-```{list-table} Target table in article 2
-:name: target-table
+
+```{list-table} First table in article 1
+:name: table-article-1
 :header-rows: 1
 
 * - A
   - B
-* - 3
-  - 4
+* - 1
+  - 2
 ```
