@@ -1,0 +1,20 @@
+# Subfigures
+
+Subfigures go wrong in conversion
+
+````{figure}
+:label: fig_trees
+```{figure} tree_2.png
+:label: fig_tree_2
+:width: 80%
+
+A tree
+```
+```{figure} tree_3.png
+:label: fig_tree_3
+:width: 80%
+
+A tree with bg
+```
+An idea to compare branches with painting with layers
+````

@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ac80b563-d00b-4fad-b385-3e7f5e0294be
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/FreekPols/typst_convert_issues
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
