@@ -8,8 +8,22 @@ project:
   # authors: []
   github: https://github.com/FreekPols/typst_convert_issues
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc: 
+    - file: index.md
+    - file: subfigures.md
+    - file: errorlog.md
+
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/TUD-JB-OS/typst_template.git 
+      output: ./exports/preview.pdf
+
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  actions:
+    - title: pdf
+      url: exports/preview.pdf
