@@ -1,6 +1,6 @@
 # Subfigures
 
-Subfigures go wrong in conversion
+Subfigures go wrong in conversion.
 
 ````{figure}
 :label: fig_trees
@@ -18,3 +18,6 @@ A tree with bg
 ```
 An idea to compare branches with painting with layers
 ````
+
+
+This reference should take refert to figure 1a: @fig_tree_2, and this one to figure 1 in general: @fig_trees.
