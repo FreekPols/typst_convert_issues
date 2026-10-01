@@ -8,4 +8,4 @@ $\text{some text}$ is converted to $ s o m e t e x t $ but should be converted t
 
 **example**
 
-$$ F = m \cdot a \text{with} a \text{in kgm/s^2} $$
+$$ F = m \cdot a \; \text{with} \; a \; \text{in kgm/s}^2 $$
