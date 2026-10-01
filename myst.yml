@@ -11,6 +11,7 @@ project:
   toc: 
     - file: index.md
     - file: subfigures.md
+    - file: inlinefigs.md
     - file: errorlog.md
 
   exports:

@@ -3,7 +3,6 @@
 Subfigures go wrong in conversion.
 
 ```{figure} tree_2.png
-
 :width: 80%
 
 A non labeled image of a tree
